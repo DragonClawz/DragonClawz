@@ -1,4 +1,4 @@
-- 👋 Hiiii my name is Kai. I recently passed the Board Exams for Electronics Engineering in the Philippines. I love agriculture and playing video games!
+- 👋 Hiiii am Kai. I recently passed the Board Exams for Electronics Engineering in the Philippines. I love agriculture and playing video games
 - 👀 I’m interested in Minecraft, Embedded Systems, Microcontroller Programming, Innovative Ideas, and the occasional video game modding!
 - 🌱 I’m currently learning how to create mods for Stardew Valley
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kristinevalderosa/)
